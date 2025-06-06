@@ -49,3 +49,58 @@ emoji sound, emoji with sound, emoji audio, chat reactions, sound emoji, Dhanraj
 
 
 > Note: This open-source project is independently developed and is not affiliated with any existing product or trademark. All emoji and sound rights belong to their respective owners.
+
+
+
+
+# 🎵 Soundji – Emoji with Sound (By Dhanraj Dnyaneshwar Thopate)
+
+**Soundji** is an open-source innovation that brings **sound to emojis** in chat apps and messaging platforms. Imagine reacting with 😂 and hearing a laugh — this project makes that possible.
+
+> 🧠 *Original Idea by:* Dhanraj Dnyaneshwar Thopate  
+> 📍 *Location:* Pimpare Khurd, Taluka Purandar, District Pune, Maharashtra  
+> 📅 *Published:* June 2025  
+> 🔖 *License:* Apache 2.0
+
+## 🚀 What is Soundji?
+
+**Soundji = Emoji + Sound.**  
+This project adds sound effects to emoji reactions. When a user sends an emoji in a chat, the corresponding sound plays on the recipient's device.
+
+### 🔊 Example Use Cases:
+- 😂 Laugh emoji plays a giggle sound  
+- 🔔 Bell emoji triggers a chime  
+- 🎉 Celebration emoji plays a party horn
+
+## 🎯 Why Soundji?
+
+- Makes chat more expressive and immersive
+- Fun way to enhance digital communication
+- Ideal for messaging apps, games, live streams, or accessibility tools
+
+## 💡 Key Features
+
+- Simple integration of emoji-triggered sound
+- Fully customizable emoji-sound map
+- Web-based prototype ready
+- Open-source and free to use (Apache 2.0)
+
+## 🛠️ Installation (Demo)
+
+Coming soon – basic web demo and integration code using JavaScript and HTML.
+
+## 📖 Background
+
+The idea of **"Emoji with Sound"** was proposed by Dhanraj Dnyaneshwar Thopate and released publicly under an open-source license to ensure credit and promote innovation.
+
+> This is the **first known open-source project** dedicated to mapping emoji reactions with sound playback in messaging systems.
+
+## 🌍 Keywords
+
+`emoji with sound` `sound reactions` `chat emoji audio` `Soundji project` `Dhanraj Dnyaneshwar Thopate idea` `emoji sound effects open source` `emoji sound messaging` `innovative chat feature`
+
+## 🤝 Contribution
+
+Want to contribute? Fork this repo, suggest new sound-emoji mappings, or improve the prototype. All contributions welcome!
+
+---
